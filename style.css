@@ -404,7 +404,7 @@ header{
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
-    background-image: url("./images/banner/b17.jpg");
+    background-image: url(./images/banner/b17.jpg);
     height: 50vh;
     background-size: cover;
     background-position: center;
